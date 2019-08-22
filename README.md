@@ -1,3 +1,3 @@
-# book_viewer_project
+# book_viewer
 
-book viewer project from course 170 at launch school
+Simple E-Book viewer web-app.
